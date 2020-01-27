@@ -10,5 +10,17 @@ for j in range(11,20):
 for k in range(11,30):
     print("the value of j is : ",k)
     
+## DESCRIPTION :::===>
+'''
+here we are adding some new feature and will create into new branch 
+
+'''
+###  DHABA
+# VeG
+1) Roti
+2) vegitables
+3)soup
+print("this is final in jms_DHABA branch")
+=======
 print("this modification is in master branch")
     
